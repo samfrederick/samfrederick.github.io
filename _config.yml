@@ -1,7 +1,7 @@
 # Setup
 title: Sam Frederick
 tagline: About
-url: https://samfrederick.github.io/about/
+url: https://samfrederick.github.io/bio/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -25,11 +25,6 @@ exclude:
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
 author:
