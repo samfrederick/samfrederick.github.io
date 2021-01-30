@@ -1,6 +1,6 @@
 # Setup
 title: Sam Frederick
-tagline: About
+tagline: Nothing
 url: https://samfrederick.github.io/bio/
 rooturl: https://samfrederick.github.io/bio/
 paginate: 1
@@ -28,8 +28,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: ''
+  name: Sam Frederick
+  url: 'https://samfrederick.github.io/bio'
   email: astronofrederick@gmail.com
 
 pages_list:
