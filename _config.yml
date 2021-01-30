@@ -30,3 +30,6 @@ author:
   name: Mark Otto
   url: ''
   email: astronofrederick@gmail.com
+
+pages_list:
+  Projects: '/projects'
