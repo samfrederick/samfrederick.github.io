@@ -1,7 +1,7 @@
 # Setup
 title: Sam Frederick
 url: https://samfrederick.github.io/bio/about
-baseurl: https://samfrederick.github.io/bio/about
+baseurl: /bio
 paginate: 1
 permalink: pretty
 
