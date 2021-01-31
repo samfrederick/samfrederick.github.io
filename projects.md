@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 ---
+
+-----
 ## Honors Thesis in Physics - Davidson College, May 2019
 [_Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Detection_](https://samfrederick.github.io/about/media/docs/frederick-thesis.pdf)
 - Constructed a C-based computational model for magnetar stellar structure with strong magnetic fields by implementing magnetohydrodynamic simulation via the PLUTO code for astrophysical gas dynamics.
