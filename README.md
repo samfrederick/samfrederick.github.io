@@ -1,4 +1,4 @@
-A GitHub pages website forked from the [Poole Jekyll Template](https://github.com/poole/poole).
+A GitHub pages website forked from the [Poole Jekyll Template](https://github.com/poole/poole). Modified by Sam Frederick for use as a personal static website for academic, research biographical information. 
 
 ## MIT Release License 
 Copyright (c) 2013 Mark Otto.
