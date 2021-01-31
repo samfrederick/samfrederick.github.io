@@ -27,7 +27,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Sam Frederick
-  url: 'https://samfrederick.github.io/about'
+  url: 'https://samfrederick.github.io/'
   email: astronofrederick@gmail.com
 
 pages_list:
