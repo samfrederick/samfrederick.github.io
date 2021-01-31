@@ -32,5 +32,5 @@ author:
   email: astronofrederick@gmail.com
 
 pages_list:
-  About: 'https://samfrederick.github.io/about'
-  Projects: 'https://samfrederick.github.io/projects'
+  About: '/about'
+  Projects: '/projects'
