@@ -20,7 +20,7 @@ title: Projects
 
 4. “_Yearlong performance of Six Air Sensor Models Across Seven U.S. Sites_”. K.K. Barkjohn, C. Johnson, S.G. Frederick, R. Yaga, B. Thomas, W. Schoppman, A.L. Clements. (_in preparation_)
 
-## Presentations (<sup>*</sup> presenter)
+## Presentations (* presenter)
 1.  “Air Sensors: PurpleAir, AirNow Fire and Smoke Map, and Air Sensor
     Use Internationally". K.K. Barkjohn<sup>*</sup>, **S.G.
     Frederick<sup>*</sup>**, A.L. Holder, A.L. Clements, Embassy Air
