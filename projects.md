@@ -132,6 +132,8 @@ title: Projects
     Analysis". **S. Frederick**<sup>⋆</sup>. Quadrennial SPS Physics
     Congress. (San Francisco, CA, Nov 2016)  
 
+<hr/>
+
 [EPA Science Inventory Link]: https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=349512&Lab=CEMM
 [1]: https://cfpub.epa.gov/si/si_public_record_Report.cfm?Lab=CEMM&dirEntryId=350073
 [Bibcode link]: https://ui.adsabs.harvard.edu/abs/2019AAS...23315311F/abstract
