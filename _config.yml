@@ -1,6 +1,6 @@
 # Setup
 title: Sam Frederick
-url: https://samfrederick.github.io/bio/about
+url: https://samfrederick.github.io/
 paginate: 1
 permalink: pretty
 
@@ -27,9 +27,9 @@ sass:
 # Specify the author for blog posts
 author:
   name: Sam Frederick
-  url: 'https://samfrederick.github.io/bio/about'
+  url: 'https://samfrederick.github.io/about'
   email: astronofrederick@gmail.com
 
 pages_list:
-  About: 'https://samfrederick.github.io/bio/about'
-  Projects: 'https://samfrederick.github.io/bio/projects'
+  About: 'https://samfrederick.github.io/about'
+  Projects: 'https://samfrederick.github.io/projects'
