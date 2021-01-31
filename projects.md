@@ -14,9 +14,9 @@ title: Projects
 ## Publications
 1. “[_Modeling  Magnetohydrodynamic  Equilibrium  in  Magnetars  with  Applications  to  Continuous  Gravitational Wave Production_](https://arxiv.org/abs/2002.02619)”. S.G. Frederick, K.L. Thompson, M.P. Kuchera. January, 2021. (_in review_)
 
-2. “_Applications of U.S. EPA’s Performance Targets to Nine PM2.5 Sensor Field Evaluations_”.S.G. Frederick, K.K. Barkjohn, C. Johnson, A.L. Clements. (_in preparation_)
+2. “_Applications of U.S. EPA’s Performance Targets to Nine PM<sub>2.5</sub> Sensor Field Evaluations_”.S.G. Frederick, K.K. Barkjohn, C. Johnson, A.L. Clements. (_in preparation_)
 
-3. “_PurpleAir PM2.5 U.S. Correction and Performance During Smoke Events_”. K.K. Barkjohn, A.L. Holder, S.G. Frederick, A.L. Clements. (_in preparation_)
+3. “_PurpleAir PM<sub>2.5</sub> U.S. Correction and Performance During Smoke Events_”. K.K. Barkjohn, A.L. Holder, S.G. Frederick, A.L. Clements. (_in preparation_)
 
 4. “_Yearlong performance of Six Air Sensor Models Across Seven U.S. Sites_”. K.K. Barkjohn, C. Johnson, S.G. Frederick, R. Yaga, B. Thomas, W. Schoppman, A.L. Clements. (_in preparation_)
 
