@@ -86,3 +86,52 @@ title: Projects
 [3]: https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=349961&Lab=CEMM
 [4]: https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=349513&Lab=CEMM
 [5]: https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=348487&Lab=CEMM
+
+## Poster Presentations
+1.  “Performance Evaluations of Six PM<sub>2.5</sub> Sensors in Research
+    Triangle Park, NC". **S.G. Frederick<sup>⋆</sup>**, K.K.
+    Barkjohn, C. Johnson, I. VonWald, A.L. Clements. American
+    Association for Aerosol Research. (Virtual, Oct 2020). [EPA Science
+    Inventory Link][].  
+
+2.  “Impacts of Data Completeness on Hourly Averaged PurpleAir
+    PM<sub>2.5</sub> Concentrations During Smoke Events". **S.G.
+    Frederick<sup>⋆</sup>**, K.K. Barkjohn, A.L. Holder, A.L. Clements.
+    American Association for Aerosol Research. (Virtual, Oct 2020) [EPA
+    Science Inventory Link][1].  
+
+3.  “Performance Evaluations of Six PM<sub>2.5</sub> Sensors in Research
+    Triangle Park, NC". **S.G. Frederick<sup>⋆</sup>**, K.K.
+    Barkjohn, C. Johnson, R. Yaga, A.L. Clements. Air Pollution
+    Monitoring for Communities Grantee Meeting. (RTP, NC, Feb 2020).  
+
+4.  “PurpleAir PM<sub>2.5</sub> U.S. Correction and Performance During
+    Smoke Events". K. Johnson<sup>⋆</sup>, A. Holder, **S.
+    Frederick**, A. Clements. Air Pollution Monitoring for Communities
+    Grantee Meeting. (RTP, NC, Feb 2020).  
+
+5.  “Modeling Structural and Magnetic Field Stability in Magnetars".
+    **S. Frederick<sup>⋆</sup>**, K.L. Thompson, M.P. Kuchera. Meeting
+    of the American Astronomical Society. (Seattle, WA, Jan 2019).
+    [Bibcode link][].  
+
+6.  “HI Observations of Intermittent Pulsars". **S.
+    Frederick<sup>⋆</sup>**, K. Thompson. North Carolina Astronomers’
+    Meeting. (Guilford Technical Community College, Guilford, NC, Sep
+    2018).  
+
+7.  “HI Observations of Intermittent Pulsars". **S.
+    Frederick<sup>⋆</sup>**, K.L. Thompson. Davidson College Alenda Lux
+    Research Symposium. (Davidson, NC, May 2018).  
+
+8.  “Analysis of Particle Trajectories around Schwarzschild and
+    Extreme-Kerr Black Holes". **S. Frederick<sup>⋆</sup>**. Davidson
+    College Alenda Lux Research Symposium. (Davidson, NC, May 2017)  
+
+9.  “Determining the Excitation Temperature of M57 via Spectral
+    Analysis". **S. Frederick**<sup>⋆</sup>. Quadrennial SPS Physics
+    Congress. (San Francisco, CA, Nov 2016)  
+
+[EPA Science Inventory Link]: https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=349512&Lab=CEMM
+[1]: https://cfpub.epa.gov/si/si_public_record_Report.cfm?Lab=CEMM&dirEntryId=350073
+[Bibcode link]: https://ui.adsabs.harvard.edu/abs/2019AAS...23315311F/abstract
