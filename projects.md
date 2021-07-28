@@ -12,7 +12,7 @@ title: Projects
 - Found simulation results to be within reasonable prediction of published wave strain estimates for highly-magnetic pulsar sources.
 
 ## Publications
-1. “[_Modeling  Magnetohydrodynamic  Equilibrium  in  Magnetars  with  Applications  to  Continuous  Gravitational Wave Production_](https://arxiv.org/abs/2002.02619)”. S.G. Frederick, K.L. Thompson, M.P. Kuchera. Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 2, May 2021, Pages 2764--2775. [DOI: 10.1093/mnras/stab625](https://doi.org/10.1093/mnras/stab625).
+1. "_Modeling  Magnetohydrodynamic  Equilibrium  in  Magnetars  with  Applications  to  Continuous  Gravitational Wave Production_”. S.G. Frederick, K.L. Thompson, M.P. Kuchera. Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 2, May 2021, Pages 2764--2775. [DOI: 10.1093/mnras/stab625](https://doi.org/10.1093/mnras/stab625).
 
 2. “_Applications of U.S. EPA’s Performance Targets to Nine PM<sub>2.5</sub> Sensor Field Evaluations_”.S.G. Frederick, K.K. Barkjohn, C. Johnson, A.L. Clements. (_in preparation_)
 
