@@ -3,6 +3,7 @@ title: Sam Frederick
 url: https://samfrederick.github.io/
 paginate: 1
 permalink: pretty
+time: '2022-08-26'
 
 # Gems
 plugins:
@@ -28,7 +29,7 @@ sass:
 author:
   name: Sam Frederick
   url: 'https://samfrederick.github.io/'
-  email: astronofrederick@gmail.com
+  email: sf20@illinois.edu
 
 pages_list:
   About: '/about'
