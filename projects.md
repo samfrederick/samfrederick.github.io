@@ -2,23 +2,10 @@
 layout: page
 title: Projects
 ---
-
------
-## Honors Thesis in Physics - Davidson College, May 2019
-[_Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Detection_](https://samfrederick.github.io/media/docs/frederick-thesis.pdf)
-- Constructed a C-based computational model for magnetar stellar structure with strong magnetic fields by implementing magnetohydrodynamic simulation via the PLUTO code for astrophysical gas dynamics.
-- Quantified structural deformation due to magnetic field strength via measurement of stellar ellipticity by evaluating changes to the principal moments of inertia of the star.
-- Determined estimates for continuous gravitational wave strain resulting from stellar deformation assuming axisymmetric deformations orthogonal to the rotational axis.
-- Found simulation results to be within reasonable prediction of published wave strain estimates for highly-magnetic pulsar sources.
-
 ## Publications
 1. "_Modeling  Magnetohydrodynamic  Equilibrium  in  Magnetars  with  Applications  to  Continuous  Gravitational Wave Production_”. S.G. Frederick, K.L. Thompson, M.P. Kuchera. Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 2, May 2021, Pages 2764--2775. [DOI: 10.1093/mnras/stab625](https://doi.org/10.1093/mnras/stab625).
 
-2. “_Applications of U.S. EPA’s Performance Targets to Nine PM<sub>2.5</sub> Sensor Field Evaluations_”.S.G. Frederick, K.K. Barkjohn, C. Johnson, A.L. Clements. (_in preparation_)
-
-3. “_PurpleAir PM<sub>2.5</sub> U.S. Correction and Performance During Smoke Events_”. K.K. Barkjohn, A.L. Holder, S.G. Frederick, A.L. Clements. (_in preparation_)
-
-4. “_Yearlong performance of Six Air Sensor Models Across Seven U.S. Sites_”. K.K. Barkjohn, C. Johnson, S.G. Frederick, R. Yaga, B. Thomas, W. Schoppman, A.L. Clements. (_in preparation_)
+2. "_Correction and Accuracy of PurpleAir PM2.5 Measurements for Extreme Wildfire Smoke_". K.K. Barkjohn, A.L. Holder, S.G. Frederick, A.L. Clements. Sensors 2022, 22, 9669. [DOI: 10.3390/s22249669](https://www.mdpi.com/1424-8220/22/24/9669)
 
 ## Presentations (* presenter)
 1.  “Air Sensors: PurpleAir, AirNow Fire and Smoke Map, and Air Sensor
@@ -128,7 +115,14 @@ title: Projects
 
 9.  “Determining the Excitation Temperature of M57 via Spectral
     Analysis". **S. Frederick***. Quadrennial SPS Physics
-    Congress. (San Francisco, CA, Nov 2016)  
+    Congress. (San Francisco, CA, Nov 2016)
+
+## Honors Thesis in Physics - Davidson College, May 2019
+[_Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Detection_](https://samfrederick.github.io/media/docs/frederick-thesis.pdf)
+- Constructed a C-based computational model for magnetar stellar structure with strong magnetic fields by implementing magnetohydrodynamic simulation via the PLUTO code for astrophysical gas dynamics.
+- Quantified structural deformation due to magnetic field strength via measurement of stellar ellipticity by evaluating changes to the principal moments of inertia of the star.
+- Determined estimates for continuous gravitational wave strain resulting from stellar deformation assuming axisymmetric deformations orthogonal to the rotational axis.
+- Found simulation results to be within reasonable prediction of published wave strain estimates for highly-magnetic pulsar sources.  
 
 <hr/>
 
